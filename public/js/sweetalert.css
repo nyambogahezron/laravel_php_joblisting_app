@@ -1,0 +1,17 @@
+.swal-modal {
+    background-color: green;
+    position: absolute;
+    height: 80px;
+    z-index: 1;
+    width: 300px;
+    margin: auto;
+    right: 5px;
+    top: 0;
+    text-align: center;
+}
+.swal-text {
+    display: block;
+    margin-top: 50px;
+    text-align: center;
+    color: #fff;
+}
